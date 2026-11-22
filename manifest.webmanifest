@@ -2,7 +2,7 @@
   "name": "De camino a los 30",
   "short_name": "Camino a los 30",
   "start_url": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#05080f",
   "theme_color": "#0b1630",
